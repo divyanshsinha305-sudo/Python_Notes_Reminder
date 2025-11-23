@@ -25,4 +25,5 @@ personal_notes/
    `python notes_app.py`
 
 ## Reminder Format
-Set reminders using:
+Set reminders
+
