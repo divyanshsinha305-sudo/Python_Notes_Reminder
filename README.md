@@ -12,12 +12,12 @@ A lightweight Python CLI application for creating notes, searching notes, settin
 
 ## Folder Structure
 personal_notes/
-├── notes_app.py
-├── storage.py
-├── reminders.py
-├── utils.py
-├── requirements.txt (optional)
-└── README.md
+├── notes_app.py <br>
+├── storage.py <br>
+├── reminders.py <br>
+├── utils.py <br>
+├── report_content.py <br>
+└── README.md <br>
 
 ## How to Run
 1. Install Python 3.10+
@@ -26,4 +26,5 @@ personal_notes/
 
 ## Reminder Format
 Set reminders
+
 
